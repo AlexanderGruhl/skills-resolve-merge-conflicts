@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+Test markdown file for merge conflict.
